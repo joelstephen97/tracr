@@ -1,4 +1,4 @@
-# Tracer Tool
+# Tracr Tool
 
 Tracer is a Python tool that follows a given URL, scrapes images from the website along with their metadata (EXIF), and organizes them into a folder tree reflecting the link hierarchy. If the link contains further links, Tracer will recursively follow them up to a specified depth (default is 5, configurable via command-line arguments).
 
